@@ -6,6 +6,7 @@
 .Section1 h2{
     display: inline-block;
     width: 100px;
+    scroll-margin-top: 80px;
 }
 
 .Section2{
@@ -16,6 +17,7 @@
 .Section2 h2{
     display: inline-block;
     width: 100px;
+    scroll-margin-top: 80px;
 }
 
 .Section3{
@@ -25,6 +27,7 @@
 .Section3 h2{
     display: inline-block;
     width: 100px;
+    scroll-margin-top: 80px;
 }
 
 #navbar ul{
