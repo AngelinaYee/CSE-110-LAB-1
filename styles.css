@@ -9,6 +9,10 @@
     scroll-margin-top: 80px;
 }
 
+.Section1 p{
+    display: inline-block;
+}
+
 .Section2{
     background-image: url(https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg);
     color: white;
